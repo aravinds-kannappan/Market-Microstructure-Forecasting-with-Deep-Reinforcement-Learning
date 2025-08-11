@@ -1,7 +1,0 @@
-pandas>=1.4
-numpy>=1.21
-scikit-learn>=1.1
-torch>=2.0
-gymnasium>=0.27
-stable-baselines3>=2.2.0
-jupyterlab>=3.5
